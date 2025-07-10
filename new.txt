@@ -1,0 +1,9 @@
+Write a SQL query to generate 5th highest salary of employee;
+
+
+select * from employees where salary = (Select max (salary) from employees);
+
+
+
+
+sayali.manekar@cctech.co.in
