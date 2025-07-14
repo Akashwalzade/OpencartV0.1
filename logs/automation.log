@@ -520,3 +520,87 @@
 22:25:40.388 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
 22:25:45.743 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
 22:25:47.180 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+13:07:00.174 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+13:07:00.196 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+13:07:00.268 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+13:07:00.918 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+13:07:02.233 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+13:07:02.277 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+13:07:10.532 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+13:07:11.881 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+14:12:39.016 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+14:12:39.091 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+14:12:39.223 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+14:12:39.853 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+14:12:41.542 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+14:12:41.568 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+14:12:41.612 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+14:12:41.691 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+14:12:41.774 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+14:12:42.579 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+14:12:44.796 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+14:12:44.877 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+14:12:47.063 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+14:12:49.231 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+14:12:51.568 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+14:12:53.464 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+14:16:02.649 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+14:16:02.698 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+14:16:02.847 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+14:16:03.663 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+14:16:05.549 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+14:16:05.609 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+14:16:16.199 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+14:16:18.780 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:30:48.092 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+16:30:48.129 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+16:30:48.239 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+16:30:48.859 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+16:30:49.693 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+16:30:50.760 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+16:30:56.222 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+16:30:58.086 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:33:11.915 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+16:33:11.943 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+16:33:12.054 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+16:33:12.767 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+16:33:13.745 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+16:33:14.688 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+16:33:20.288 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+16:33:22.139 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:34:55.767 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+16:34:55.809 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+16:34:55.935 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+16:34:56.633 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+16:34:58.922 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+16:34:58.988 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+16:35:05.096 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+16:35:08.282 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+17:23:32.538 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+17:23:32.571 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+17:23:32.701 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+17:23:33.479 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+17:23:35.234 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+17:23:35.319 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+17:23:40.869 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+17:23:42.696 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+17:23:48.433 [main] INFO  testCases.TC004_Search - ***** Starting TC004_Search *****
+17:25:18.382 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+17:25:18.447 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+17:25:18.566 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+17:25:19.464 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+17:25:21.102 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+17:25:21.175 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+17:25:30.228 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+17:25:31.906 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+17:25:39.677 [main] INFO  testCases.TC004_Search - ***** Starting TC004_Search *****
+17:38:29.695 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+17:38:29.724 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+17:38:29.822 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+17:38:30.408 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+17:38:31.949 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+17:38:32.011 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+17:38:38.421 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+17:38:40.009 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+17:38:45.436 [main] INFO  testCases.TC004_Search - ***** Starting TC004_Search *****
+17:38:49.202 [main] INFO  testCases.TC004_Search - ***** Finished  TC004_Search *****
