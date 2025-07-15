@@ -604,3 +604,111 @@
 17:38:40.009 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
 17:38:45.436 [main] INFO  testCases.TC004_Search - ***** Starting TC004_Search *****
 17:38:49.202 [main] INFO  testCases.TC004_Search - ***** Finished  TC004_Search *****
+09:05:35.695 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+09:05:35.755 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - click on the my account
+09:05:35.977 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - click on the register
+09:06:30.633 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+09:08:35.147 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+09:08:35.199 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - click on the my account
+09:08:35.394 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - click on the register
+09:10:54.472 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+09:12:14.069 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+09:12:14.072 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - click on the my account
+09:12:14.324 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - click on the register
+09:12:27.226 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+11:22:07.911 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+11:22:07.974 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+11:22:08.095 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+11:22:08.766 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+11:22:10.407 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+11:22:10.468 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+11:22:13.677 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+11:22:15.994 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+11:22:18.668 [main] INFO  testCases.TC004_Search - ***** Starting TC004_Search *****
+11:22:22.357 [main] INFO  testCases.TC004_Search - ***** Finished  TC004_Search *****
+11:22:25.428 [main] INFO  testCases.TC005_AddToCart - ****..started TC005_AddToCart ....***
+11:22:28.243 [main] INFO  testCases.TC005_AddToCart - ***..Finished TC005_AddToCart ....***
+11:29:42.038 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+11:29:42.096 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+11:29:42.207 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+11:29:42.904 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+11:29:44.748 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+11:29:44.828 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+11:29:48.096 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+11:29:49.622 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+11:29:51.935 [main] INFO  testCases.TC004_Search - ***** Starting TC004_Search *****
+11:29:55.526 [main] INFO  testCases.TC004_Search - ***** Finished  TC004_Search *****
+11:29:58.274 [main] INFO  testCases.TC005_AddToCart - ****..started TC005_AddToCart ....***
+11:30:14.608 [main] ERROR testCases.TC005_AddToCart - Add to cart is falied because ofno such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='product-search']//div[2]//div[1]//div[2]//div[2]//button[1]"}
+  (Session info: chrome=138.0.7204.101)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c7e85fd4ec0254a566b0daeea5cf3126, findElement {using=xpath, value=//div[@id='product-search']//div[2]//div[1]//div[2]//div[2]//button[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 138.0.7204.94 (545025748884..., userDataDir: C:\Users\Akash\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60457}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60457/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c7e85fd4ec0254a566b0daeea5cf3126
+11:32:01.309 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+11:32:01.346 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+11:32:01.474 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+11:32:02.696 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+11:32:04.304 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+11:32:04.375 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+11:32:08.424 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+11:32:10.403 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+11:32:12.938 [main] INFO  testCases.TC004_Search - ***** Starting TC004_Search *****
+11:32:16.557 [main] INFO  testCases.TC004_Search - ***** Finished  TC004_Search *****
+11:32:19.525 [main] INFO  testCases.TC005_AddToCart - ****..started TC005_AddToCart ....***
+11:32:21.917 [main] ERROR testCases.TC005_AddToCart - Add to cart is falied because ofinvalid selector: Unable to locate an element with the xpath expression @FindBy(xpath="//button[@id='button-cart']") because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '@FindBy(xpath="//button[@id='button-cart']")' is not a valid XPath expression.
+  (Session info: chrome=138.0.7204.101)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ddc5c1ae9d5fcdb62b61077c44f2e111, findElement {using=xpath, value=@FindBy(xpath="//button[@id='button-cart']")}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 138.0.7204.94 (545025748884..., userDataDir: C:\Users\Akash\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60619}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60619/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ddc5c1ae9d5fcdb62b61077c44f2e111
+11:39:43.894 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+11:39:43.925 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+11:39:44.037 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+11:39:44.669 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+11:39:46.634 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+11:39:46.708 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+11:39:49.396 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+11:39:51.430 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+11:39:53.790 [main] INFO  testCases.TC004_Search - ***** Starting TC004_Search *****
+11:39:57.427 [main] INFO  testCases.TC004_Search - ***** Finished  TC004_Search *****
+11:41:40.653 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+11:41:40.681 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+11:41:40.782 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+11:41:41.281 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+11:41:43.071 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+11:41:43.145 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+11:41:45.858 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+11:41:47.592 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+11:41:49.756 [main] INFO  testCases.TC004_Search - ***** Starting TC004_Search *****
+11:41:53.281 [main] INFO  testCases.TC004_Search - ***** Finished  TC004_Search *****
+11:41:55.858 [main] INFO  testCases.TC005_AddToCart - ****..started TC005_AddToCart ....***
+11:41:58.947 [main] ERROR testCases.TC005_AddToCart - Add to cart is falied because ofinvalid selector: Unable to locate an element with the xpath expression @FindBy(xpath="//button[@id='button-cart']") because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '@FindBy(xpath="//button[@id='button-cart']")' is not a valid XPath expression.
+  (Session info: chrome=138.0.7204.101)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8091f1236cdce1f1147e9a05a38abcfd, findElement {value=@FindBy(xpath="//button[@id='button-cart']"), using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 138.0.7204.94 (545025748884..., userDataDir: C:\Users\Akash\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61069}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61069/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8091f1236cdce1f1147e9a05a38abcfd
+11:46:12.070 [main] INFO  testCases.TC001_AccountRegistration - **** Test Execution has been started *****
+11:46:12.111 [main] INFO  testCases.TC001_AccountRegistration - click on the my account
+11:46:12.221 [main] INFO  testCases.TC001_AccountRegistration - click on the register
+11:46:12.931 [main] INFO  testCases.TC001_AccountRegistration - providing the customer info..
+11:46:14.759 [main] INFO  testCases.TC001_AccountRegistration - Validating the confirmation message
+11:46:14.848 [main] INFO  testCases.TC001_AccountRegistration - **** Finished Test Execution *****
+11:46:18.500 [main] INFO  testCases.TC002_LoginTest - **** Sterted TC002_LoginTest ****
+11:46:20.290 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+11:46:23.111 [main] INFO  testCases.TC004_Search - ***** Starting TC004_Search *****
+11:46:27.075 [main] INFO  testCases.TC004_Search - ***** Finished  TC004_Search *****
+11:46:31.303 [main] INFO  testCases.TC005_AddToCart - ****..started TC005_AddToCart ....***
+11:46:35.711 [main] INFO  testCases.TC005_AddToCart - ***..Finished TC005_AddToCart ....***

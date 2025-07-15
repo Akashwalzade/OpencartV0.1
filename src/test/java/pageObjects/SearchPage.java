@@ -35,4 +35,7 @@ public class SearchPage extends BasePage {
     public void clickSearchButton() {
         searchButton.click();
     }
+    public void selectproductname(String Productname) {
+    	driver.findElement(By.linkText(Productname)).click();
+    }
 }
